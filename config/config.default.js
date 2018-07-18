@@ -8,4 +8,5 @@
 exports.weappSDK = {
   appId: '',
   appSecret: '',
+  clients: null,
 };
